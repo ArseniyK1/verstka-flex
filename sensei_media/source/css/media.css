@@ -1,0 +1,11 @@
+/* @media (max-width: 800px) {
+  .welcome-btn {
+    flex-direction: column;
+    align-self: stretch;
+    align-items: stretch;
+    padding-bottom: 11vw;
+  }
+  .welcome-btn button {
+    max-width: 10vw;
+  }
+} */
